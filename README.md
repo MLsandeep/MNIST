@@ -1,2 +1,2 @@
-# MNIST-
+# MNIST
 99% accuracy
